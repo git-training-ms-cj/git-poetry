@@ -1,0 +1,7 @@
+Welcome, young padawan, to the git-poetry exercise!
+
+Your mission, should you choose to accept it, is to work along with your team to complete reproduce the poetry provided in input.txt
+Rules:
+	- at the end, the output.txt file should contain exactly the verses in input.txt, in the same order
+	- each verse should be commited as a single commit
+	- you should attempt to integrate often with the master branch, after each commit
